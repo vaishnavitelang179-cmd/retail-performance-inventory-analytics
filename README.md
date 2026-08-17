@@ -44,6 +44,11 @@ The analysis covers:
 - Out-of-stock products
 - Stockout risk across stores and products
 - Inventory coverage
+  ## Data Source
+
+The original dataset was downloaded from **Kaggle** and contains sales, product, store, and inventory data.
+
+The data was cleaned and prepared in Python before being used for SQL analysis and Power BI reporting.
 
 ## Key Insights
 
